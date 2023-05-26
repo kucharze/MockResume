@@ -35,7 +35,7 @@
   height: 700px;
 }
 .expList {
-  border-left: #323b4c;
+  border-left: red;
   padding-bottom: 100px;
 }
 .referenceItems {
@@ -44,4 +44,8 @@
 }
 .refCon {
   display: flex;
+  align-items: center;
+}
+h4 {
+  padding-right: 10px;
 }
