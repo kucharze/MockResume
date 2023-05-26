@@ -1,0 +1,35 @@
+.main {
+  display: flex;
+}
+.side {
+  border: solid black;
+  height: 100vh;
+  width: 25%;
+  background-color: #323b4c;
+  color: white;
+  padding-left: 10px;
+}
+.profilepic {
+  border: solid blue;
+  border-radius: 150px;
+  margin-left: 5px;
+  margin-top: 7px;
+  margin-bottom: 5px;
+  height: 210px;
+}
+.contact {
+  margin-left: 10px;
+}
+.mainPage {
+  border: solid blue;
+  border-width: 0.5px;
+  height: 100vh;
+  width: 100%;
+  padding-left: 20px;
+}
+.name {
+  height: 200px;
+}
+.experience {
+  height: 800px;
+}
