@@ -32,7 +32,8 @@
   height: 200px;
 }
 .experience {
-  height: 700px;
+  height: 780px;
+  margin-bottom: 15px;
 }
 .expItem {
   border-left: solid black;
@@ -49,4 +50,12 @@
 }
 h4 {
   padding-right: 10px;
+}
+.dateitems {
+  display: flex;
+  align-items: center;
+}
+.circle {
+  height: 20px;
+  margin-right: 10px;
 }
