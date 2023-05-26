@@ -24,17 +24,17 @@
 .mainPage {
   border: solid blue;
   border-width: 0.5px;
-  height: 100vh;
+  height: 101vh;
   width: 100%;
   padding-left: 20px;
   padding-right: 30px;
 }
 .name {
-  height: 200px;
+  height: 150px;
 }
 .experience {
-  height: 780px;
-  margin-bottom: 15px;
+  height: 750px;
+  padding-bottom: 25px;
 }
 .expItem {
   border-left: solid black;
@@ -48,6 +48,14 @@
 .refCon {
   display: flex;
   align-items: center;
+}
+.reverence {
+  height: 250px;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+.referenceItems {
+  padding-bottom: 10px;
 }
 h4 {
   padding-right: 10px;
